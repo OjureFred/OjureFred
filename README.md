@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-***LinkedIn: [Fredrick Ojure](https://www.linkedin.com/in/fredrick-ojure-b2027011/)
+#### A wild horse in this domesticated world | Fullstack Software Engineer leaning on Backend and Machine Learning | Python, React, Angular
+* LinkedIn: [Fredrick Ojure](https://www.linkedin.com/in/fredrick-ojure-b2027011/)
 
 <!--
 **OjureFred/OjureFred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
