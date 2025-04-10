@@ -2,6 +2,8 @@
 
 ### Hi there, I am Fredrick Ojure 👋
 
+---
+
 - 👯 Fullstack Developer and Product Designer
 
 #### A wild horse in this domesticated world | Fullstack Software Engineer leaning on Backend and Machine Learning | Python, React, Angular
