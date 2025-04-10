@@ -10,7 +10,7 @@
 
 ---
 
-### About Me
+### 🔭🔭 About Me
 
 I'm Fredrick --  a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)**. Below is an overview of my skills and technologies in a structured format.
 I have worked extensively with:
