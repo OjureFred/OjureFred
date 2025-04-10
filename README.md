@@ -1,8 +1,8 @@
 
 
-### Hi there 👋
+### Hi there, I am Fredrick Ojure 👋
 
-- 👯 I’m looking to collaborate on interesting projects...
+- 👯 Fullstack Developer and Product Designer
 
 #### A wild horse in this domesticated world | Fullstack Software Engineer leaning on Backend and Machine Learning | Python, React, Angular
 * LinkedIn: [Fredrick Ojure](https://www.linkedin.com/in/fredrick-ojure-b2027011/)
