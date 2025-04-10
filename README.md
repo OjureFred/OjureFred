@@ -6,19 +6,18 @@
 
 ### 👯 Software Developer and Product Designer
 
-| Fullstack Software Engineer focused on Frontend, Backend and Machine Learning | Python, Javascript,  Typescript, Node JS, React |
+| Focused on Fullstack Software Development and Artificial Intelligence |
 
 ---
 
 ### About Me
 
-I'm Fredrick --  a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)**. My tech stack includes Python, Django, FastAPI, JavaScript, TypeScript, Node.js, and React. Below is an overview of my skills and technologies in a structured format.
+I'm Fredrick --  a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)**. Below is an overview of my skills and technologies in a structured format.
 I have worked extensively with:
 - Databases
-- Node JS
-- React
-- Python
-- TensorFlow, Pytorch and Scikit-learn
+- Backend frameworks
+- Frontend frameworks
+- Artificial Intelligence
 
 At the core of my work is integrating ML with Fullstack applications  and building dev facing APIs
 
@@ -33,27 +32,9 @@ At the core of my work is integrating ML with Fullstack applications  and buildi
 | **Backend Frameworks**    | Django, FastAPI, Node.js             |
 | **Frontend Frameworks**   | React                              |
 | **AI Integration**        | Python libraries (e.g., TensorFlow, PyTorch) |
-| **Database**              | PostgreSQL, MongoDB                |
+| **Database**              | PostgreSQL,MySQL,  MongoDB                |
 | **Version Control**       | Git, GitHub                        |
 | **Deployment Tools**      | Docker, Kubernetes, AWS            |
-
----
-
-## Projects
-### 1. AI-Powered Web Application
-- **Description:** Developed a web application that integrates AI for predictive analytics.
-- **Tech Stack:** Python (FastAPI), React, PostgreSQL.
-- **Features:** User authentication, real-time data visualization, and AI-based recommendations.
-
-### 2. E-Commerce Platform
-- **Description:** Built a scalable e-commerce platform with dynamic product recommendations using AI.
-- **Tech Stack:** Node JS, React, MongoDB.
-- **Features:** Payment gateway integration, user profiles, and product filtering.
-
-### 3. Sales Dashboard
-- **Description:** Built a sales dashboard with  with various charts to display trends in sales.
-- **Tech Stack:** Node JS, React, MongoDB.
-- **Features:** Nivo Charts, Material UI, user profiles, and data enhancement.
 
 ---
 
