@@ -6,7 +6,7 @@
 
 ### 👯 Software Developer and Product Designer
 
-| Fullstack Software Engineer leaning on Backend and Machine Learning | Python, Javascript,  Typescript, Node JS, React |
+| Fullstack Software Engineer focused on Frontend, Backend and Machine Learning | Python, Javascript,  Typescript, Node JS, React |
 
 ---
 
@@ -24,8 +24,6 @@ At the core of my work is integrating ML with Fullstack applications  and buildi
 
 ---
 
-
----
 
 ## Tech Stack
 
