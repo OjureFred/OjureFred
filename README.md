@@ -45,7 +45,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 
 ---
 -  📫 How to reach me:
--  [LinkedIn] ()
+-  [LinkedIn](https://www.linkedin.com/in/fredrick-ojure-b2027011/)
   
 
 ---
