@@ -17,7 +17,7 @@ I have worked extensively with:
 
 - Databases | Backend frameworks | Frontend frameworks | Artificial Intelligence
 
-At the core of my work is integrating ML with Fullstack applications  and building dev facing APIs
+At the core of my work is integrating AI with Fullstack applications  and building developer facing APIs
 
 ---
 
