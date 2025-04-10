@@ -47,8 +47,13 @@ At the core of my work is integrating ML with Fullstack applications  and buildi
 
 ### 2. E-Commerce Platform
 - **Description:** Built a scalable e-commerce platform with dynamic product recommendations using AI.
-- **Tech Stack:** Django, React, MongoDB.
+- **Tech Stack:** Node JS, React, MongoDB.
 - **Features:** Payment gateway integration, user profiles, and product filtering.
+
+### 3. Sales Dashboard
+- **Description:** Built a sales dashboard with  with various charts to display trends in sales.
+- **Tech Stack:** Node JS, React, MongoDB.
+- **Features:** Nivo Charts, Material UI, user profiles, and data enhancement.
 
 ---
 
