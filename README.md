@@ -26,14 +26,62 @@ At the core of my work is integrating ML with Fullstack applications  and buildi
 
 ### What I do
 ---
-- Fullstack product development (frontend + backend)
-- Building Dev tools
-- AI Integration
-- OSS cntributions and community mentorship
+# Fullstack Developer
 
-- --
+## Introduction
+Welcome to my GitHub profile! I am a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)**. My tech stack includes Python, Django, FastAPI, JavaScript, TypeScript, Node.js, and React. Below is an overview of my skills and technologies in a structured format.
 
-### Tech Stack
+---
+
+## Tech Stack
+
+| **Category**       | **Technologies**                     |
+|---------------------|--------------------------------------|
+| **Programming Languages** | Python, JavaScript, TypeScript       |
+| **Backend Frameworks**    | Django, FastAPI, Node.js             |
+| **Frontend Frameworks**   | React                              |
+| **AI Integration**        | Python libraries (e.g., TensorFlow, PyTorch) |
+| **Database**              | PostgreSQL, MongoDB                |
+| **Version Control**       | Git, GitHub                        |
+| **Deployment Tools**      | Docker, Kubernetes, AWS            |
+
+---
+
+## Projects
+### 1. AI-Powered Web Application
+- **Description:** Developed a web application that integrates AI for predictive analytics.
+- **Tech Stack:** Python (FastAPI), React, PostgreSQL.
+- **Features:** User authentication, real-time data visualization, and AI-based recommendations.
+
+### 2. E-Commerce Platform
+- **Description:** Built a scalable e-commerce platform with dynamic product recommendations using AI.
+- **Tech Stack:** Django, React, MongoDB.
+- **Features:** Payment gateway integration, user profiles, and product filtering.
+
+---
+
+## Skills and Expertise
+- Fullstack development with seamless integration of backend and frontend technologies.
+- Building scalable APIs using Django and FastAPI.
+- Creating dynamic user interfaces with React and TypeScript.
+- Implementing AI models into web applications for enhanced functionality.
+- Proficient in database design and optimization.
+
+---
+
+## Contact
+Feel free to connect with me:
+- **GitHub:** [Your GitHub Username]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [Your Email Address]
+
+---
+
+## License
+This repository is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
 
 <!--
 **OjureFred/OjureFred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
