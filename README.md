@@ -24,6 +24,17 @@ At the core of my work is integrating ML with Fullstack applications  and buildi
 
 ---
 
+### What I do
+---
+- Fullstack product development (frontend + backend)
+- Building Dev tools
+- AI Integration
+- OSS cntributions and community mentorship
+
+- --
+
+### Tech Stack
+
 <!--
 **OjureFred/OjureFred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
