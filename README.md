@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm Fredrick -- a software developer focused on building tools that help enterprises unlock the power of modern technologies. I also educate developers and help them build their skills in the industry.
+I'm Fredrick --  a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)**. My tech stack includes Python, Django, FastAPI, JavaScript, TypeScript, Node.js, and React. Below is an overview of my skills and technologies in a structured format.
 I have worked extensively with:
 - Databases
 - Node JS
@@ -24,12 +24,6 @@ At the core of my work is integrating ML with Fullstack applications  and buildi
 
 ---
 
-### What I do
----
-# Fullstack Developer
-
-## Introduction
-Welcome to my GitHub profile! I am a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)**. My tech stack includes Python, Django, FastAPI, JavaScript, TypeScript, Node.js, and React. Below is an overview of my skills and technologies in a structured format.
 
 ---
 
@@ -62,7 +56,7 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** focusing on buildin
 
 ## Skills and Expertise
 - Fullstack development with seamless integration of backend and frontend technologies.
-- Building scalable APIs using Django and FastAPI.
+- Building scalable APIs using Node JS, Django and FastAPI.
 - Creating dynamic user interfaces with React and TypeScript.
 - Implementing AI models into web applications for enhanced functionality.
 - Proficient in database design and optimization.
@@ -77,10 +71,6 @@ Feel free to connect with me:
 
 ---
 
-## License
-This repository is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 
 <!--
