@@ -44,8 +44,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 - Proficient in database design and optimization.
 
 - - 📫 How to reach me:
-  - email: fredojure@gmail.com
-  - Call or WhatsApp: +254 710 593 533
+  
 
 ---
 
