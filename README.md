@@ -22,7 +22,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 ---
 
 
-## Tech Stack
+## 💬💬 Tech Stack
 
 | **Category**       | **Technologies**                     |
 |---------------------|--------------------------------------|
@@ -36,7 +36,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 
 ---
 
-## Skills and Expertise
+## 🌱🌱 Skills and Expertise
 - Fullstack development with seamless integration of backend and frontend technologies.
 - Building scalable APIs using Node JS, Django and FastAPI.
 - Creating dynamic user interfaces with React and TypeScript.
