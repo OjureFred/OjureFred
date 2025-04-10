@@ -43,7 +43,9 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 - Implementing AI models into web applications for enhanced functionality.
 - Proficient in database design and optimization.
 
-- - 📫 How to reach me:
+---
+-  📫 How to reach me:
+-  [LinkedIn] ()
   
 
 ---
