@@ -4,9 +4,9 @@
 
 ---
 
-- 👯 Fullstack Developer and Product Designer
+### 👯 Fullstack Developer and Product Designer
 
-#### A wild horse in this domesticated world | Fullstack Software Engineer leaning on Backend and Machine Learning | Python, React, Angular
+# | Fullstack Software Engineer leaning on Backend and Machine Learning | Python, Javascript, Typescript, React, Angular |
 * LinkedIn: [Fredrick Ojure](https://www.linkedin.com/in/fredrick-ojure-b2027011/)
 
 <!--
