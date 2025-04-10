@@ -6,7 +6,7 @@
 
 ### 👯 Software Developer and Product Designer
 
-#### | Fullstack Software Engineer leaning on Backend and Machine Learning | Python, Javascript, Typescript, React, Angular |
+| Fullstack Software Engineer leaning on Backend and Machine Learning | Python, Javascript, Typescript, React, Angular |
 * LinkedIn: [Fredrick Ojure](https://www.linkedin.com/in/fredrick-ojure-b2027011/)
 
 <!--
