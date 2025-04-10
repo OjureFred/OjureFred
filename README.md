@@ -63,14 +63,6 @@ At the core of my work is integrating ML with Fullstack applications  and buildi
 
 ---
 
-## Contact
-Feel free to connect with me:
-- **GitHub:** [Your GitHub Username]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email Address]
-
----
-
 
 
 <!--
