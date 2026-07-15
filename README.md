@@ -12,7 +12,7 @@
 
 ### 🔭 About Me
 
-I'm Fredrick --  a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)**. Below is an overview of my skills and technologies in a structured format.
+I'm Fredrick --  a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)** workflows. Below is an overview of my skills and technologies in a structured format.
 I have worked extensively with:
 
 - Databases | Backend frameworks | Frontend frameworks | Artificial Intelligence
@@ -27,7 +27,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 | **Category**       | **Technologies**                     |
 |---------------------|--------------------------------------|
 | **Programming Languages** | Python, JavaScript, TypeScript       |
-| **Backend Frameworks**    | Django, FastAPI, Node.js             |
+| **Backend Frameworks**    | Django, Express, FastAPI, Node.js             |
 | **Frontend Frameworks**   | React                              |
 | **AI Integration**        | Codex, Copilot, OpenCode |
 | **Database**              | PostgreSQL,MySQL,  MongoDB                |
@@ -47,7 +47,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 
 ## 🌱🌱 Skills and Expertise
 - Fullstack development with seamless integration of backend and frontend technologies.
-- Building scalable APIs using Node JS, Django and FastAPI.
+- Building scalable APIs using Node JS, Express Django and FastAPI.
 - Creating dynamic user interfaces with React and TypeScript.
 - Implementing AI models into web applications for enhanced functionality.
 - Proficient in database design and optimization.
