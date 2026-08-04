@@ -15,7 +15,7 @@
 I'm Fredrick --  a **Fullstack Developer** focusing on building robust web applications that integrate **Artificial Intelligence (AI)** workflows. Below is an overview of my skills and technologies in a structured format.
 I have worked extensively with:
 
-- Databases | Backend frameworks | Frontend frameworks | Artificial Intelligence
+- Databases | Backend frameworks | Frontend frameworks | AI Agentic Systems
 
 At the core of my work is integrating AI with Fullstack applications  and building APIs for developers
 
@@ -32,6 +32,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 | **AI Integration**        | Codex, Copilot, OpenCode |
 | **Database**              | PostgreSQL,MySQL,  MongoDB                |
 | **Version Control**       | Git, GitHub                        |
+| **AI Agentic Systems**    | LangChain, LangGraph                        |
 | **Deployment Tools**      | Docker, Kubernetes, AWS            |
 
 
