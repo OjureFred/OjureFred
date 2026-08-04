@@ -49,6 +49,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 ## 🌱🌱 Skills and Expertise
 - Fullstack development with seamless integration of backend and frontend technologies.
 - Building scalable APIs using Node JS, Express Django and FastAPI.
+-  Building fullstack AI Agentic Applications
 - Creating dynamic user interfaces with React and TypeScript.
 - Implementing AI models into web applications for enhanced functionality.
 - Proficient in database design and optimization.
