@@ -30,7 +30,7 @@ At the core of my work is integrating AI with Fullstack applications  and buildi
 | **Backend Frameworks**    | Django, Express, FastAPI, Node.js             |
 | **Frontend Frameworks**   | React, React Router, React Native                             |
 | **AI Coding Tools**        | Codex, Copilot, OpenCode |
-| **Database**              | PostgreSQL,MySQL,  MongoDB                |
+| **Databases**              | PostgreSQL,MySQL,  MongoDB                |
 | **Version Control**       | Git, GitHub                        |
 | **AI Agentic Systems**    | LangChain, LangGraph                        |
 | **Deployment Tools**      | Docker, Kubernetes, AWS            |
